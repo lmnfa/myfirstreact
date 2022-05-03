@@ -1,0 +1,25 @@
+h1 {
+  display: block;
+  color: grey;
+  font-weight: bold;
+  font-smooth: 2em;
+}
+
+button {
+  background-color: #4caf50; /* Green */
+  border: none;
+  color: white;
+  padding: 10px 25px;
+  text-align: center;
+  text-decoration: none;
+}
+
+input[type="text"] {
+  padding: 10px;
+  border: 0;
+  box-shadow: 0 0 15px 4px rgba(0, 0, 0, 0.06);
+}
+
+.Profil {
+  text-align: center;
+}
